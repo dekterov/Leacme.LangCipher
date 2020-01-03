@@ -5,6 +5,7 @@
 This application features the ability to translate text via the number of available translation pairs.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703353-594dcc00-2d91-11ea-91f8-0722f8d9969d.png)
 
 ## Application Compiling
 
